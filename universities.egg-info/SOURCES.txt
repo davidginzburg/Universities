@@ -1,0 +1,9 @@
+setup.py
+universities/University.py
+universities/__init__.py
+universities/get_jsons.py
+universities.egg-info/PKG-INFO
+universities.egg-info/SOURCES.txt
+universities.egg-info/dependency_links.txt
+universities.egg-info/requires.txt
+universities.egg-info/top_level.txt

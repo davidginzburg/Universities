@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: universities
+Version: 0.0.1
+Summary: Get universities data package
+Home-page: UNKNOWN
+Author: David Ginzburg
+Author-email: davidginzburg123@gmail.com
+License: UNKNOWN
+Description: A package that gets data about the universities from a given url
+Keywords: conversion
+Platform: UNKNOWN
